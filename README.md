@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there !! , I'm Uday Gohel</h1>
-
+<h3 align="center">IT Student and Web Developer 💻 </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects<br>🤝 I’m looking for help with Freelancing<br>🌱 I’m currently learning MERN stack.<br>💬 Reach me at: goheluday6445@gmail.com<br>⚡ Fun fact: A SQL query walks into a bar and sees two tables. He walks up to them and says, “Can I join you?”
@@ -18,10 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UdayGohel&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Uday_Gohel_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
+### ✍️ Quote to Motivate 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
