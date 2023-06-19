@@ -1,3 +1,6 @@
+<h1 align="center"> Hey there !! , I'm Uday Gohel</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects<br>🤝 I’m looking for help with Freelancing<br>🌱 I’m currently learning MERN stack.<br>💬 Reach me at: goheluday6445@gmail.com<br>⚡ Fun fact: A SQL query walks into a bar and sees two tables. He walks up to them and says, “Can I join you?”
 
@@ -24,7 +27,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UdayGohel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Just Meme
 <img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
 
 
