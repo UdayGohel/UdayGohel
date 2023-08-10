@@ -16,8 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGohel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UdayGohel&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
+<a href="https://github.com/UdayGohel/github-profile-trophy">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=UdayGohel&column=8&theme=tokyonight&no-frame=true"/>
+</a>
 ### ✍️ Quote to Motivate 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
