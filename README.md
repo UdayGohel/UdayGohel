@@ -19,6 +19,7 @@
 <a href="https://github.com/UdayGohel/github-profile-trophy">
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=UdayGohel&column=8&theme=tokyonight&no-frame=true"/>
 </a>
+
 ### ✍️ Quote to Motivate 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
